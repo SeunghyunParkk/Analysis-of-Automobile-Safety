@@ -56,7 +56,7 @@ The dataset includes detailed automobile specifications and **symboling** values
 - The **Out-of-Bag (OOB) error** was **11.85%**.
 - The model achieved **79.3% accuracy** on the test dataset.
 - Key safety predictors:  
-  - **Wheelbase, height, curb weight, number of doors, horsepower, body style, and bore size**.
+  - **Make, Wheelbase, height, curb weight, number of doors, horsepower, body style, and bore size**.
 - **Larger cars** were more likely to be safer, but **luxury status did not guarantee better safety ratings**.
 
 ### **Clustering Analysis**
